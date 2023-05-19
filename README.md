@@ -4,4 +4,4 @@ FEITO COM O AUXILIO DA COMUNIDADE ''HORA DE CODAR'' POREM COM ALGUMAS MELHORIAS 
 + ADIÇÃO DE TEMPERATURA MAXIMA E MINIMA
 + ADIÇÃO DE SENSAÇÃO TERMICA
 ![image](https://github.com/arthurssoares/Previsao_Tempo/assets/90150567/ad68d85e-836b-458b-97a3-7cb459db740b)
-![image](https://github.com/arthurssoares/Previsao_Tempo/assets/90150567/111111f3-0287-4f3c-a0a2-c54b88201b81
+
